@@ -1,4 +1,5 @@
-# Medmesh
+# Medmesh (Secured a spot in Top 15% projects submitted at PennApps 2018)
+Conversational AI in healthcare. Automated Heart Rate abnormality detection and remedial using Fitbits, Machine Learning, Chatbots etc. 
 
 ## Problem to Solve
 
@@ -17,21 +18,4 @@ Finally, we offer custom-made recommendations to the patient through use of an i
 
 Python 3.6 +
 
-## How to start
 
-1. Install requirements
-
-```
-cd server
-pip3 install -r requirements.txt
-```
-
-2. Run Server
-
-```
-python server.py
-```
-
-3. Sign up and Click the embedded button on the bottom right
-
-4. Enjoy chatting with Medmesh AI Chatbot
