@@ -1,0 +1,37 @@
+<head>
+    <title>Create an account!</title>
+</head>
+
+<body>
+
+    <header>
+        <div id="nav">
+            <a href='/'>Home</a>
+        </div>
+    </header>
+
+    <div class="title">
+        <h1>Enter your information below</h1>
+    </div>
+    <div id="content">
+        <form method="post" action="{{ url_for('signup') }}">
+            <label for="email">Enter your email:</label>
+            <input type="email" name="email" /><br />
+            <label for="password">Enter password:</label>
+            <input type="password" name="password" /><br />
+            <label for="first_name">Enter first_name:</label>
+            <input type="first_name" name="first_name" /><br />
+            <label for="last_name">Enter last_name:</label>
+            <input type="last_name" name="last_name" /><br />
+            <label for="date_of_birth">Enter date_of_birth:</label>
+            <input type="date_of_birth" name="date_of_birth" /><br />
+            <label for="hometown">Enter hometown:</label>
+            <input type="hometown" name="hometown" /><br />
+            <label for="gender">Enter gender:</label>
+            <input type="gender" name="gender" /><br />
+            <input type="submit" class="button" />
+        </form>
+    </div>
+</body>
+
+<footer>Heartcare</footer>
