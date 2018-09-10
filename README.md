@@ -24,4 +24,4 @@ Out of 210 teams(each team of max 4 team members) our team was in the Top 30 lis
 
 ## My Role
 
-As a Solutions Architect, I was instrumental in whiteboarding and designing the overall architectural solution to this problem. I was the sole developer for the Prediction Engine, a ML platform trained with 50K patient records  to predict the stroke probability. I was also responsible for completing various sections for the website and overall Integration of the various platform oomponents.
+As a previous Solutions Architect, I was instrumental in whiteboarding and designing the overall architectural solution to this problem. I was the sole developer for the Prediction Engine, a ML platform trained with 50K patient records  to predict the stroke probability. I was also responsible for completing various sections for the website and overall Integration of the various platform oomponents.
