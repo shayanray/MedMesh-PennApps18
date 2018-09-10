@@ -12,7 +12,7 @@ However, current healthcare infrastructure is inefficient in terms of effectivel
 We developed a web application where patient can provide his personal information and get a custom-made recommendation through an automated system.
 
 To accomplish this goal, we first developed a machine learning model which predicts the probability of stroke due to atrial fibrillation. With 24/7 monitoring in the Fitbit, our application collects this information and passes it in as an input, in addition to other personal data collected during the sign-in, to determine the probability of having a stroke.
-Finally, we offer custom-made recommendations to the patient through use of an interactive chatbot on our webpage.
+Finally, we offer custom-made recommendations to the patient through use of an interactive chatbot on our website.
 
 ## Requirements
 
@@ -21,3 +21,7 @@ Python 3.6 +
 ## Overall Rank
 
 Out of 210 teams(each team of max 4 team members) our team was in the Top 30 list as announced by the judges.
+
+## My Role
+
+As a Solutions Architect, I was instrumental in whiteboarding and designing the overall architectural solution to this problem. I was the sole developer for the Prediction Engine, a ML platform trained with 50K patient records  to predict the stroke probability. I was also responsible for completing various sections for the website and overall Integration of the various platform oomponents.
