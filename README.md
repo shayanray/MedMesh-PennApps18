@@ -1,5 +1,5 @@
 # Medmesh (Secured a spot in Top 15% projects submitted at PennApps 2018)
-Conversational AI in healthcare. Automated Heart Rate abnormality detection and remedial using Fitbits, Machine Learning, Chatbots etc. 
+Conversational AI in healthcare. Automated Heart Rate abnormality detection and remedial using Fitbits, Machine Learning, Chatbots etc to  provide ER avoidance and bridge the gap between providers and patients. 
 
 ## Problem to Solve
 
